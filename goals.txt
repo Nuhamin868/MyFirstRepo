@@ -1,0 +1,5 @@
+My Personal and Academic Goals for Next Year
+
+* Goal 1: [Successfully complete all core computer science modules with an average grade of A- or higher by the end of the academic year. This includes spending at least 5 hours per week on independent project work outside of scheduled classes.]
+* Goal 2: [Read one non-fiction book per month (12 total for the year) to expand knowledge in areas outside my core study, such as economics, history, or philosophy.]
+* Goal 3: [Complete and launch a personal web application or portfolio project (e.g., a data visualization tool or a mobile utility app) using a new framework (like React or Angular) by the end of Q3 next year.]
