@@ -1,0 +1,1 @@
+Today I learned how to use Git and GitHub. I practiced cloning, navigating directories, and working with files." > learning.txt
